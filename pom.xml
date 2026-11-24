@@ -7,7 +7,8 @@
     <groupId>com.example</groupId>
     <artifactId>sla</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>sla</name>
+    <name>Calculo IMC</name>
+    <description>Aplicação desktop em JavaFX para cálculo de IMC com histórico em PostgreSQL.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

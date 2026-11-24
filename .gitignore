@@ -4,13 +4,13 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/
 *.iws
 *.iml
 *.ipr
+
+### Credenciais locais do banco ###
+src/main/resources/db.properties
 
 ### Eclipse ###
 .apt_generated

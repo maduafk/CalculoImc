@@ -1,0 +1,6 @@
+# Copie este arquivo para db.properties e preencha com o seu PostgreSQL local.
+# db.properties fica de fora do Git.
+
+db.url=jdbc:postgresql://localhost:5432/imc
+db.user=postgres
+db.password=
